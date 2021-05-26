@@ -2,11 +2,11 @@
 
 #### 介绍
 失物招领系统前台项目：“lost_and_found_forestage_frontEnd”为前端，“lost_and_found_forestage_backEnd”为后端。
-![](https://gitee.com/bfcod/lost_and_found_forestage/blob/master/img/forestage_domain.png)
-![](https://gitee.com/bfcod/lost_and_found_forestage/blob/master/img/forestage_logon.png)
-![](https://gitee.com/bfcod/lost_and_found_forestage/blob/master/img/forestage_posts.png)
-![](https://gitee.com/bfcod/lost_and_found_forestage/blob/master/img/forestage_checkPostInfo.png)
-![](https://gitee.com/bfcod/lost_and_found_forestage/blob/master/img/forestage_checkGoterPersonalInfo.png)
+![](https://gitee.com/bfcod/lost_and_found_forestage/raw/master/img/forestage_domain.png)
+![](https://gitee.com/bfcod/lost_and_found_forestage/raw/master/img/forestage_logon.png)
+![](https://gitee.com/bfcod/lost_and_found_forestage/raw/master/img/forestage_posts.png)
+![](https://gitee.com/bfcod/lost_and_found_forestage/raw/master/img/forestage_checkPostInfo.png)
+![](https://gitee.com/bfcod/lost_and_found_forestage/raw/master/img/forestage_checkGoterPersonalInfo.png)
 
 #### 软件架构
 软件架构说明：项目基于人人开源框架：https://gitee.com/renrenio
